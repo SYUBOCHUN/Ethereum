@@ -5,3 +5,6 @@
 ## oraclize-test
 OraclizeTest.sol 使用 Oraclize 的測試智能合約。  
 usingOraclize.sol 是讓 OraclizeTest.sol 來 import Oraclize 功能的合約。  
+
+### Smart contract
+建置中。  
