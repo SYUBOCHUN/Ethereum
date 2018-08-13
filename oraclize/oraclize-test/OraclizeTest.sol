@@ -1,5 +1,5 @@
 pragma solidity ^0.4.21;
-import "./usingOraclize.sol";
+import "https://github.com/xubochun/Ethereum/oraclize/oraclize-test/usingOraclize.sol";
 
 contract OraclizeTest is usingOraclize {
 
