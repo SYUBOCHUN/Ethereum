@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "address": "0x0b76a66a968a756b87b15d7ef5013472f737f7d447c00ec3d94f66cef5a33b38",
+      "id": 1
+    },
+    {
+      "address": "0xf6127bdc68a0f39ae25061d198c8951c3cc64b0d75b95a87f49127a37e182ab9",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "address": "0x0b76a66a968a756b87b15d7ef5013472f737f7d447c00ec3d94f66cef5a33b38",
+      "id": 4
+    }
+  ],
+  "contractInfo": [
+    {
+      "test": "123",
+      "account": "321",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
